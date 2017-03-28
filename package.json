@@ -1,0 +1,18 @@
+{
+  "name": "defcom",
+  "version": "1.0.0",
+  "description": "Decoupled Entity Form Components",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/gabesullice/defcom"
+  },
+  "keywords": [
+    "Drupal"
+  ],
+  "author": "Gabe SULLICE",
+  "license": "GPL-3.0"
+}
